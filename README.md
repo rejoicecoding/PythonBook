@@ -6,7 +6,11 @@
 
 Author and Publisher: John V. Guttag, The MIT Press
 
-
+본 책에 대하여 다음과 같은 추가적인 정보를 제공합니다. 
+- 소스코드
+- 부록의 문제 세트(5 ~ 12) 및 소스코드
+- 정오표
+- 
 
 
 
