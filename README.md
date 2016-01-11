@@ -3,6 +3,7 @@
 역자, 출판사: 김영섭, 홍릉과학출판사
 
 원서: Introduction to Computation and Programming Using Python 
+
 Author and Publisher: John V. Guttag, The MIT Press)
 
 
