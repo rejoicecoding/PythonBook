@@ -4,7 +4,7 @@
 
 ### Introduction to Computation and Programming Using Python 
 
-Author and Publisher: John V. Guttag, The MIT Press)
+Author and Publisher: John V. Guttag, The MIT Press
 
 
 
